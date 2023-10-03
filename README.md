@@ -4,14 +4,14 @@
     <h1 align="center">✩&emsp;Aryanpratap01&emsp;✩</h1>
 </p>
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;I+m+MERN+Stack+Developer!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <br>
 <p align="left"> <a href="https://twitter.com/mraryan33688758" target="blank"><img src="https://img.shields.io/twitter/follow/mraryan33688758?logo=twitter&style=for-the-badge" alt="mraryan33688758" /></a> </p>
-<p align= "left">
+
 - 🔭 I’m currently working on [Abhavya-Women's Safety](https://github.com/Aryanpratap01/Women_Safety)
 
 - 🌱 I’m currently learning **MERN Dev and JAVA DSA**
@@ -27,7 +27,7 @@
 - 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1S1fQpRwpN1vWGP55Vdjwv8qMuWAuoYwG/view?usp=sharing)
 
 - My Holopin Badges -
-  </p>
+
 
   [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](holopin.io/@aryanpratap01)
 
