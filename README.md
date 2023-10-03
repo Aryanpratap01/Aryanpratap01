@@ -33,7 +33,7 @@
 - My Holopin Badges -
 
 
-  [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](holopin.io/@aryanpratap01)
+  [![@aryanpratap01's Holopin badges](https://holopin.me/aryanpratap01)](https://holopin.io/@aryanpratap01)
 
 
 <h3 align="left">Connect with me:</h3>
