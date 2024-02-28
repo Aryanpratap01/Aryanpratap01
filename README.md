@@ -55,5 +55,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpratap01&" alt="aryanpratap01" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanpratap01&repo=LeetCode_Solutions&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanpratap01&repo=LeetCode&theme=radical" />
 
