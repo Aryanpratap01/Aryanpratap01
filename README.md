@@ -55,5 +55,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpratap01&" alt="aryanpratap01" /></p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryanpratap01&repo=LeetCode&theme=radical" />
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/api/v1/card?username=aryanpratap02&style=dark)
