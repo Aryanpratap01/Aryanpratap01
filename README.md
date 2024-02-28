@@ -56,3 +56,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpratap01&" alt="aryanpratap01" /></p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/api/v1/card?username=aryanpratap02&style=dark)
+![](https://leetcard.jacoblin.cool/api/v1/card?username=aryanpratap02&style=dark)
+
