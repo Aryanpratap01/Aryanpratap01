@@ -54,3 +54,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanpratap01&show_icons=true&locale=en" alt="aryanpratap01" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpratap01&" alt="aryanpratap01" /></p>
+![](https://leetcard.jacoblin.cool/aryanpratap02?ext=activity)
